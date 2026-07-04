@@ -15,10 +15,11 @@
 <a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=hamza01055&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamza01055&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
 
