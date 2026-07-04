@@ -1,0 +1,16 @@
+<svg width="1400" height="80" viewBox="0 0 1400 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00ff9d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C 200,10 350,70 500,40 C 650,10 800,70 950,40 C 1100,10 1250,70 1400,40" stroke="url(#divGrad)" stroke-width="2" fill="none">
+    <animate attributeName="d"
+      values="M0,40 C 200,10 350,70 500,40 C 650,10 800,70 950,40 C 1100,10 1250,70 1400,40;
+              M0,40 C 200,70 350,10 500,40 C 650,70 800,10 950,40 C 1100,70 1250,10 1400,40;
+              M0,40 C 200,10 350,70 500,40 C 650,10 800,70 950,40 C 1100,10 1250,70 1400,40"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>

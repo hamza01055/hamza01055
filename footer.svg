@@ -1,0 +1,49 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="1400" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#031a14"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="footText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="footGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="220" fill="url(#footBg)"/>
+
+  <path d="M0,40 C 200,10 350,60 500,35 C 650,10 800,60 950,35 C 1100,10 1250,55 1400,35 L1400,0 L0,0 Z" fill="#00ff9d" opacity="0.08">
+    <animate attributeName="d"
+      values="M0,40 C 200,10 350,60 500,35 C 650,10 800,60 950,35 C 1100,10 1250,55 1400,35 L1400,0 L0,0 Z;
+              M0,35 C 200,60 350,10 500,40 C 650,60 800,10 950,40 C 1100,55 1250,10 1400,40 L1400,0 L0,0 Z;
+              M0,40 C 200,10 350,60 500,35 C 650,10 800,60 950,35 C 1100,10 1250,55 1400,35 L1400,0 L0,0 Z"
+      dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#22d3ee" opacity="0.5">
+    <circle cx="150" cy="60" r="2"><animate attributeName="cy" values="60;45;60" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1250" cy="55" r="2.2"><animate attributeName="cy" values="55;70;55" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="45" r="1.8"><animate attributeName="cy" values="45;60;45" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="700" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" fill="url(#footText)" text-anchor="middle" filter="url(#footGlow)">
+    Thanks for stopping by!
+  </text>
+  <text x="700" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#a7f3d0" text-anchor="middle" opacity="0.85">
+    Always open to collaborating on AI, Computer Vision &amp; LLM projects
+  </text>
+
+  <text x="700" y="185" font-family="Consolas, monospace" font-size="13" fill="#5eead4" text-anchor="middle" opacity="0.7">
+    — Hamza Shahzad
+  </text>
+
+  <path d="M0,210 C 200,195 350,215 500,205 C 650,195 800,215 950,200 C 1100,190 1250,210 1400,200 L1400,220 L0,220 Z" fill="#22d3ee" opacity="0.15"/>
+</svg>

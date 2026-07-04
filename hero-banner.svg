@@ -1,0 +1,112 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#031a14"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="auroraGreen" cx="20%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#00ff9d" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraCyan" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bgGrad)"/>
+  <rect width="1400" height="420" fill="url(#auroraGreen)"/>
+  <rect width="1400" height="420" fill="url(#auroraCyan)"/>
+
+  <!-- Neural network background -->
+  <g stroke="#0f766e" stroke-opacity="0.5" stroke-width="1">
+    <line x1="80" y1="80" x2="260" y2="150"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="260" y1="150" x2="150" y2="280"><animate attributeName="stroke-opacity" values="0.5;0.1;0.5" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="80" y1="80" x2="150" y2="280"><animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="260" y1="150" x2="420" y2="90"><animate attributeName="stroke-opacity" values="0.4;0.1;0.4" dur="4.5s" repeatCount="indefinite"/></line>
+    <line x1="420" y1="90" x2="500" y2="220"><animate attributeName="stroke-opacity" values="0.15;0.5;0.15" dur="3.8s" repeatCount="indefinite"/></line>
+    <line x1="260" y1="150" x2="500" y2="220"><animate attributeName="stroke-opacity" values="0.3;0.05;0.3" dur="4.2s" repeatCount="indefinite"/></line>
+    <line x1="1100" y1="90" x2="1250" y2="160"><animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="3.6s" repeatCount="indefinite"/></line>
+    <line x1="1250" y1="160" x2="1150" y2="300"><animate attributeName="stroke-opacity" values="0.5;0.1;0.5" dur="4.4s" repeatCount="indefinite"/></line>
+    <line x1="1100" y1="90" x2="1150" y2="300"><animate attributeName="stroke-opacity" values="0.2;0.5;0.2" dur="5.2s" repeatCount="indefinite"/></line>
+    <line x1="1250" y1="160" x2="1330" y2="280"><animate attributeName="stroke-opacity" values="0.3;0.1;0.3" dur="3.9s" repeatCount="indefinite"/></line>
+    <line x1="950" y1="330" x2="1150" y2="300"><animate attributeName="stroke-opacity" values="0.15;0.45;0.15" dur="4.6s" repeatCount="indefinite"/></line>
+  </g>
+  <g fill="#00ff9d">
+    <circle cx="80" cy="80" r="3"><animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="150" r="3.5"><animate attributeName="r" values="2.5;5;2.5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="280" r="2.5"><animate attributeName="r" values="2;3.5;2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="90" r="3"><animate attributeName="r" values="2;4;2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="220" r="2.5"><animate attributeName="r" values="2;3.5;2" dur="3.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="1100" cy="90" r="3"><animate attributeName="r" values="2;4;2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1250" cy="160" r="3.5"><animate attributeName="r" values="2.5;5;2.5" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="300" r="2.5"><animate attributeName="r" values="2;3.5;2" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1330" cy="280" r="3"><animate attributeName="r" values="2;4;2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="330" r="2.5"><animate attributeName="r" values="2;3.5;2" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Floating particles -->
+  <g fill="#5eead4" opacity="0.7">
+    <circle cx="700" cy="60" r="2"><animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="350" r="2.5"><animate attributeName="cy" values="350;370;350" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="320" r="1.8"><animate attributeName="cy" values="320;300;320" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="70" r="2"><animate attributeName="cy" values="70;90;70" dur="3.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Glassmorphism card -->
+  <rect x="330" y="110" width="740" height="210" rx="24" fill="#ffffff" fill-opacity="0.04" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+  <rect x="330" y="110" width="740" height="210" rx="24" fill="url(#auroraGreen)" opacity="0.4"/>
+
+  <!-- Name -->
+  <text x="700" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">
+    Hamza Shahzad
+  </text>
+
+  <!-- Tagline -->
+  <text x="700" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#a7f3d0" text-anchor="middle" letter-spacing="0.5">
+    Artificial Intelligence &amp; Machine Learning Engineer
+  </text>
+
+  <!-- Subtagline -->
+  <text x="700" y="255" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#67e8f9" text-anchor="middle" opacity="0.85">
+    Computer Vision &#8226; LLM Engineering &#8226; Generative AI &#8226; Full-Stack AI Systems
+  </text>
+
+  <!-- Divider line -->
+  <line x1="450" y1="278" x2="950" y2="278" stroke="#00ff9d" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Small badge row -->
+  <text x="700" y="300" font-family="Consolas, monospace" font-size="12.5" fill="#5eead4" text-anchor="middle" opacity="0.8">
+    building production-ready AI, one model at a time
+  </text>
+
+  <!-- Bottom animated wave -->
+  <path d="M0,400 C 200,380 350,410 500,395 C 650,380 800,405 950,390 C 1100,375 1250,400 1400,385 L1400,420 L0,420 Z" fill="#00ff9d" opacity="0.12">
+    <animate attributeName="d"
+      values="M0,400 C 200,380 350,410 500,395 C 650,380 800,405 950,390 C 1100,375 1250,400 1400,385 L1400,420 L0,420 Z;
+              M0,395 C 200,410 350,380 500,400 C 650,415 800,385 950,405 C 1100,390 1250,415 1400,395 L1400,420 L0,420 Z;
+              M0,400 C 200,380 350,410 500,395 C 650,380 800,405 950,390 C 1100,375 1250,400 1400,385 L1400,420 L0,420 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,410 C 200,395 350,415 500,405 C 650,395 800,415 950,400 C 1100,390 1250,410 1400,400 L1400,420 L0,420 Z" fill="#22d3ee" opacity="0.15">
+    <animate attributeName="d"
+      values="M0,410 C 200,395 350,415 500,405 C 650,395 800,415 950,400 C 1100,390 1250,410 1400,400 L1400,420 L0,420 Z;
+              M0,405 C 200,415 350,395 500,410 C 650,405 800,395 950,415 C 1100,400 1250,415 1400,405 L1400,420 L0,420 Z;
+              M0,410 C 200,395 350,415 500,405 C 650,395 800,415 950,400 C 1100,390 1250,410 1400,400 L1400,420 L0,420 Z"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
