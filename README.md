@@ -10,11 +10,11 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hamza-shahzad-667602355/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9D?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://x.com/Hamza01055"><img src="https://img.shields.io/badge/X-Follow-22D3EE?style=for-the-badge&logo=x&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-Follow-00FF9D?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a" /></a>
-<a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-00FF9D?style=for-the-badge&logo=upwork&logoColor=black&labelColor=0a0a0a" /></a>
+<a href="https://www.linkedin.com/in/hamza-shahzad-667602355/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Hamza01055"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 
 <br/>
 
@@ -26,15 +26,12 @@
 
 ## 💫 About Me
 
-<div align="center">
 
-🤖 **Artificial Intelligence Engineer** 
 
-🧠 **Machine Learning • Computer Vision • LLMs • RAG**
-
-⚡ **Building production-ready AI applications and intelligent automation systems** 
-
-💼 **Open to freelance work, remote opportunities, and AI collaborations**
+🤖 **Artificial Intelligence Engineer**   
+🧠 **Machine Learning • Computer Vision • LLMs • RAG**  
+⚡ **Building production-ready AI applications and intelligent automation systems**     
+💼 **Open to freelance work, remote opportunities, and AI collaborations**   
 
 </div>
 
@@ -259,7 +256,7 @@ Artificial General Intelligence Research
 <a href="https://x.com/Hamza01055"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:hamzashahzad78374@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 
 </div>
