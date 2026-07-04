@@ -24,28 +24,27 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## 🖥️ whoami
+## 💫 About Me
 
-```bash
-hamza@ai-engineer:~$ whoami
-> Hamza Shahzad — Artificial Intelligence Engineer
+<div align="center">
 
-hamza@ai-engineer:~$ focus
-> Computer Vision · LLM Engineering · Retrieval-Augmented Generation · Full-Stack AI Systems
+🤖 **Artificial Intelligence Engineer** 
 
-hamza@ai-engineer:~$ experience
-> Building production-ready AI applications, scalable APIs,
-> intelligent automation systems, and cross-platform apps
+🧠 **Machine Learning • Computer Vision • LLMs • RAG**
 
-hamza@ai-engineer:~$ current
-> Exploring Multi-Agent AI, Edge AI, and Autonomous Systems
+⚡ **Building production-ready AI applications and intelligent automation systems** 
 
-hamza@ai-engineer:~$ mission
-> Turn real-world problems into intelligent, deployable AI products
+💼 **Open to freelance work, remote opportunities, and AI collaborations**
 
-hamza@ai-engineer:~$ future
-> Robotics · Drone Intelligence · AI Operating Systems
-```
+</div>
+
+<br/>
+
+I'm **Hamza Shahzad**, an **Artificial Intelligence Engineer** and **Machine Learning Engineer** specializing in **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. I design, build, and deploy **production-ready AI systems** — moving models out of notebooks and into real, scalable applications that solve real-world problems.
+
+My work spans **deep learning**, **AI agents**, **NLP**, and **full-stack AI development**, with hands-on experience across the entire pipeline: data, training, deployment, and monitoring.
+
+
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -241,8 +240,8 @@ Artificial General Intelligence Research
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=react&bg_color=020617&title_color=00ff9d&text_color=a7f3d0&border_color=00ff9d&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=react&bg_color=020617&title_color=00ff9d&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d" width="98%"/>
 
