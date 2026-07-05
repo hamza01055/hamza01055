@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="./assets/hero-banner.svg" width="100%" alt="Hamza Shahzad — AI Engineer"/>
 
 <br/>
