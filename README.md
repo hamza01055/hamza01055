@@ -193,6 +193,8 @@ NLP-powered resume ranking engine using semantic similarity matching.
 ### 📚 RAG Document Assistant
 LLM-powered assistant that answers questions from your own documents.
 
+
+
 `LangChain` `FAISS` `FastAPI` `LLM` `Docker`
 
 </td>
