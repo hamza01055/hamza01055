@@ -241,16 +241,18 @@ Artificial General Intelligence Research
 ## 📊 GitHub Analytics
 
 <div align="center">
+## 📊 GitHub Analytics
 
-[<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>](https://streak-stats.demolab.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=react&bg_color=020617&title_color=00ff9d&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d" width="98%"/>
+<img src="https://streak-stats.demolab.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d&utcOffset=5" width="98%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza01055&theme=react-dark&bg_color=020617&color=22d3ee&line=00ff9d&point=a7f3d0&hide_border=true" width="98%"/>
 
 </div>
-
 <img src="./assets/divider.svg" width="100%"/>
 
 ## 📬 Let's Connect
