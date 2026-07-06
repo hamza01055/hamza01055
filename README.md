@@ -242,7 +242,7 @@ Artificial General Intelligence Research
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>](https://streak-stats.demolab.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=react&bg_color=020617&title_color=00ff9d&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d" width="98%"/>
