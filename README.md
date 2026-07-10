@@ -7,6 +7,7 @@
 
 <br/>
 
+
 <a href="https://github.com/hamza01055">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Computer+Vision+Engineer;LLM+Engineer;Python+Developer;Open+Source+Contributor;AI+Research+Enthusiast" alt="Typing SVG" />
 </a>
