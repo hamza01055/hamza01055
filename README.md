@@ -6,106 +6,87 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=00FF9D&lines=Artificial+Intelligence+Engineer;Building+Production+Ready+AI+Systems;LLM+Engineer+•+RAG+•+Computer+Vision;Multi-Agent+AI+Developer;FastAPI+•+React+•+Docker"/>
 
-<br/>
+<br/><br/>
 
-[LinkedIn] [Portfolio] [GitHub] [Upwork]
+<a href="https://www.linkedin.com/in/hamza-shahzad-667602355">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://hamzashahzad.site">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hamza01055">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~0188e43144433479ac">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
 
 </div>
-## 💫 About Me
+
+---
+
+# 💫 About Me
 
 I'm **Hamza Shahzad**, an **Artificial Intelligence Engineer** passionate about building **production-ready AI applications**.
 
-### What I Do
+### 🚀 What I Do
 
-🤖 Multi-Agent AI Systems
+- 🤖 Multi-Agent AI Systems
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- ⚡ FastAPI Backend Development
+- 🐳 Docker & Deployment
+- 💻 Full Stack AI Applications
 
-🧠 Large Language Models
+### 🔥 Currently Building
 
-📚 Retrieval-Augmented Generation (RAG)
+- 🚀 AI Business OS
+- 🤖 Enterprise AI Agents
+- ⚡ Production AI APIs
 
-👁 Computer Vision
+💼 **Open to Freelance, Remote Opportunities & AI Collaborations**
 
-⚡ FastAPI Backends
+---
 
-🐳 Docker Deployment
+# 🚀 Featured Projects
 
-💻 Full Stack AI Applications
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Business OS | Enterprise AI platform with AI agents, RAG and automation | FastAPI • React • PostgreSQL • Docker |
+| 💹 Multi-Agent Financial Analyst | Multiple AI agents collaborate on financial research | LangGraph • OpenAI • FastAPI |
+| 🏙️ Smart City AI | Real-time object detection platform | YOLOv8 • FastAPI • Docker |
+| 📄 AI Resume Screening | Semantic resume ranking engine | NLP • LLM • Django |
 
-Currently building:
+---
 
-🚀 AI Business OS
+# 🧠 AI Expertise
 
-🚀 Enterprise AI Agents
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Domain | Level |
+|---------|------|
+| 🤖 Machine Learning | █████████████ |
+| 🧠 Deep Learning | █████████████ |
+| 👁️ Computer Vision | █████████████ |
+| 💬 LLM Engineering | █████████████ |
+| 📚 RAG Systems | █████████████ |
+| 🤝 AI Agents | █████████████ |
 
-🤖 AI Business OS
+---
 
-Enterprise AI Platform
+# ⚡ Tech Stack
 
-FastAPI • React • PostgreSQL • Docker
-
-[Live Demo]
-[GitHub]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💹 Multi-Agent Financial Analyst
-
-Five AI Agents collaborate on investment research.
-
-LangGraph
-OpenAI
-FastAPI
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏙 Smart City AI
-
-YOLOv8 Detection Platform
-
-Computer Vision
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📄 AI Resume Screening
-
-Semantic Search
-
-LLM
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧠 Machine Learning
-
-██████████████
-
-Deep Learning
-
-██████████████
-
-Computer Vision
-
-██████████████
-
-LLMs
-
-██████████████
-
-RAG
-
-██████████████
-
-AI Agents
-
-██████████████
-🚀 Production AI APIs
-
-💼 Open for Freelance & Remote Opportunities
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,fastapi,django,postgres,mongodb,docker,linux,git,github,vscode,tensorflow,pytorch"/>
 
-</p>
-## 📊 GitHub Analytics
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -113,52 +94,73 @@ AI Agents
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=github_dark"/>
 
-<br>
+<br><br>
 
 <img width="98%" src="https://streak-stats.demolab.com?user=hamza01055&theme=github-dark-blue"/>
 
-<br>
+<br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza01055&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamza01055/hamza01055/output/github-contribution-grid-snake-dark.svg" />
-</p>
-## 🚀 Currently Building
+---
 
-✔ AI Business OS
+# 🐍 Contribution Snake
 
-✔ Multi-Agent AI Systems
+> **Note:** This will only appear after you configure the GitHub Action that generates the snake animation.
 
-✔ Enterprise LLM Applications
+<div align="center">
 
-✔ RAG Pipelines
+<img src="https://raw.githubusercontent.com/hamza01055/hamza01055/output/github-contribution-grid-snake-dark.svg"/>
 
-✔ AI Automation
+</div>
 
-✔ Open Source Projects
-LinkedIn
+---
 
-Portfolio
+# 🚀 Currently Building
 
-Email
+- ✅ AI Business OS
+- ✅ Multi-Agent AI Systems
+- ✅ Enterprise LLM Applications
+- ✅ RAG Pipelines
+- ✅ AI Automation
+- ✅ Open Source Projects
 
-GitHub
+---
 
-Upwork
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hamza-shahzad-667602355">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hamzashahzad78374@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://hamzashahzad.site">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hamza01055">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~0188e43144433479ac">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 <img src="./assets/footer.svg" width="100%"/>
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 <p align="center">
-
-Building intelligent systems that solve real-world problems.
-
+Building intelligent systems that solve real-world problems with Artificial Intelligence.
 </p>
