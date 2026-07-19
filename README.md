@@ -13,7 +13,7 @@
 [![Followers](https://img.shields.io/github/followers/hamza01055?style=for-the-badge&logo=github&label=Followers&color=00FF9D)](https://github.com/hamza01055?tab=followers)
 [![Stars](https://img.shields.io/github/stars/hamza01055?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=22D3EE)](https://github.com/hamza01055)
 [![Profile Views](https://komarev.com/ghpvc/?username=hamza01055&style=for-the-badge&color=00FF9D&label=Profile+Views)](#)
-[![Repositories](https://img.shields.io/github/repos/hamza01055?style=for-the-badge&logo=github&label=Repositories&color=7C3AED)](https://github.com/hamza01055?tab=repositories)
+
 
 </div>
 
