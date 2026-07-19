@@ -1,277 +1,164 @@
 <div align="center">
 
-
-<img src="./assets/hero-banner.svg" width="100%" alt="Hamza Shahzad — AI Engineer"/>
-
- 
-
-<br/>
-
-
-<a href="https://github.com/hamza01055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Computer+Vision+Engineer;LLM+Engineer;Python+Developer;Open+Source+Contributor;AI+Research+Enthusiast" alt="Typing SVG" />
-</a>
+<img src="./assets/hero-banner.svg" width="100%" alt="Hamza Shahzad"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hamza-shahzad-667602355/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Hamza01055"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-![Profile Views](https://komarev.com/ghpvc/?username=hamza01055&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=00FF9D&lines=Artificial+Intelligence+Engineer;Building+Production+Ready+AI+Systems;LLM+Engineer+•+RAG+•+Computer+Vision;Multi-Agent+AI+Developer;FastAPI+•+React+•+Docker"/>
 
 <br/>
 
-
+[LinkedIn] [Portfolio] [GitHub] [Upwork]
 
 </div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
 ## 💫 About Me
 
+I'm **Hamza Shahzad**, an **Artificial Intelligence Engineer** passionate about building **production-ready AI applications**.
 
+### What I Do
 
-🤖 **Artificial Intelligence Engineer**   
-🧠 **Machine Learning • Computer Vision • LLMs • RAG**  
-⚡ **Building production-ready AI applications and intelligent automation systems**     
-💼 **Open to freelance work, remote opportunities, and AI collaborations**   
+🤖 Multi-Agent AI Systems
 
-</div>
+🧠 Large Language Models
 
-<br/>
+📚 Retrieval-Augmented Generation (RAG)
 
-I'm **Hamza Shahzad**, an **Artificial Intelligence Engineer** and **Machine Learning Engineer** specializing in **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. I design, build, and deploy **production-ready AI systems** — moving models out of notebooks and into real, scalable applications that solve real-world problems.
+👁 Computer Vision
 
-My work spans **deep learning**, **AI agents**, **NLP**, and **full-stack AI development**, with hands-on experience across the entire pipeline: data, training, deployment, and monitoring.
+⚡ FastAPI Backends
 
+🐳 Docker Deployment
 
+💻 Full Stack AI Applications
 
-<img src="./assets/divider.svg" width="100%"/>
+Currently building:
 
-## ⚡ Skills & Tech Stack
+🚀 AI Business OS
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+🚀 Enterprise AI Agents
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart&theme=dark" />
+🤖 AI Business OS
 
-### 🧠 Machine Learning & Deep Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+Enterprise AI Platform
 
-### 👁️ Computer Vision
-`YOLOv8` `OpenCV` `CNN` `Transfer Learning` `Object Detection` `Image Classification`
+FastAPI • React • PostgreSQL • Docker
 
-</td>
-<td width="50%" valign="top">
+[Live Demo]
+[GitHub]
 
-### 🤖 Generative AI & LLMs
-`LangChain` `LangGraph` `RAG` `FAISS` `ChromaDB` `Hugging Face` `Transformers` `Sentence-Transformers` `Prompt Engineering`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🔧 Backend & Frontend
-<img src="https://skillicons.dev/icons?i=fastapi,django,react&theme=dark" />
+💹 Multi-Agent Financial Analyst
 
-### 📱 Mobile & Database
-<img src="https://skillicons.dev/icons?i=flutter,postgres,sqlite&theme=dark" />
+Five AI Agents collaborate on investment research.
 
-</td>
-</tr>
-</table>
+LangGraph
+OpenAI
+FastAPI
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="./assets/divider.svg" width="100%"/>
+🏙 Smart City AI
 
-## 🧬 AI Expertise
+YOLOv8 Detection Platform
 
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-**🔮 Machine Learning**
-<br/>
-Supervised & unsupervised learning, feature engineering, model optimization
-<br/>
-`Scikit-learn` `PyTorch`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**🧠 Deep Learning**
-<br/>
-Neural network design, CNNs, transfer learning pipelines
-<br/>
-`TensorFlow` `PyTorch`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**👁️ Computer Vision**
-<br/>
-Real-time detection, tracking & classification systems
-<br/>
-`YOLOv8` `OpenCV`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**💬 LLM Engineering**
-<br/>
-Prompt design, fine-tuning workflows, LLM-powered apps
-<br/>
-`Hugging Face` `Transformers`
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center" valign="top">
-
-**📚 RAG Systems**
-<br/>
-Document retrieval pipelines with vector search
-<br/>
-`LangChain` `FAISS` `ChromaDB`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**🤝 AI Agents**
-<br/>
-Multi-step reasoning & tool-using autonomous agents
-<br/>
-`LangGraph` `LangChain`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**⚙️ MLOps**
-<br/>
-Containerized, reproducible ML deployment workflows
-<br/>
-`Docker` `Git`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**🚀 Deployment**
-<br/>
-Production APIs serving ML/CV/LLM models at scale
-<br/>
-`FastAPI` `Django`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏙️ Smart City AI
-Real-time object detection system for urban monitoring, built for speed and scale.
-
-`YOLOv8` `FastAPI` `Docker` `Django` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Screening AI
-NLP-powered resume ranking engine using semantic similarity matching.
-
-`NLP` `TF-IDF` `Cosine Similarity` `Django`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 RAG Document Assistant
-LLM-powered assistant that answers questions from your own documents.
-
-
-
-`LangChain` `FAISS` `FastAPI` `LLM` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 AI Vision Platform
-Unified platform for detection, classification & tracking pipelines.
-
-`Computer Vision` `Detection` `Classification` `Tracking`
-
-</td>
-</tr>
-</table>
-
-> **🔮 On the Horizon:** Multi-Agent AI &nbsp;·&nbsp; Drone AI &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; AI Operating Systems
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 🗺️ AI Roadmap
-
-```
-Programming
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
 Computer Vision
-   ↓
-Large Language Models
-   ↓
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📄 AI Resume Screening
+
+Semantic Search
+
+LLM
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 Machine Learning
+
+██████████████
+
+Deep Learning
+
+██████████████
+
+Computer Vision
+
+██████████████
+
+LLMs
+
+██████████████
+
+RAG
+
+██████████████
+
 AI Agents
-   ↓
-Robotics
-   ↓
-Autonomous Drone Systems
-   ↓
-Artificial General Intelligence Research
-```
 
-<img src="./assets/divider.svg" width="100%"/>
+██████████████
+🚀 Production AI APIs
 
+💼 Open for Freelance & Remote Opportunities
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,fastapi,django,postgres,mongodb,docker,linux,git,github,vscode,tensorflow,pytorch"/>
+
+</p>
 ## 📊 GitHub Analytics
 
 <div align="center">
-## 📊 GitHub Analytics
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamza01055&show_icons=true&theme=react&bg_color=020617&title_color=00ff9d&icon_color=22d3ee&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=react&bg_color=020617&title_color=00ff9d&text_color=a7f3d0&border_color=00ff9d&hide_border=false&cache_seconds=1800" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza01055&layout=compact&theme=github_dark"/>
 
-<img src="https://streak-stats.demolab.com/?user=hamza01055&theme=react&background=020617&ring=00ff9d&fire=22d3ee&currStreakLabel=00ff9d&border=00ff9d&utcOffset=5" width="98%"/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza01055&theme=react-dark&bg_color=020617&color=22d3ee&line=00ff9d&point=a7f3d0&hide_border=true" width="98%"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=hamza01055&theme=github-dark-blue"/>
 
-</div>
-<img src="./assets/divider.svg" width="100%"/>
+<br>
 
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hamza-shahzad-667602355/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Hamza01055"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/hamm_xa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:hamzashahzad78374@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://hamzashahzad.site"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.upwork.com/freelancers/~0188e43144433479ac?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza01055&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
+## 🐍 Contribution Snake
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamza01055/hamza01055/output/github-contribution-grid-snake-dark.svg" />
+</p>
+## 🚀 Currently Building
 
+✔ AI Business OS
+
+✔ Multi-Agent AI Systems
+
+✔ Enterprise LLM Applications
+
+✔ RAG Pipelines
+
+✔ AI Automation
+
+✔ Open Source Projects
+LinkedIn
+
+Portfolio
+
+Email
+
+GitHub
+
+Upwork
 <img src="./assets/footer.svg" width="100%"/>
 
-</div>
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+Building intelligent systems that solve real-world problems.
+
+</p>
