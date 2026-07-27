@@ -5,6 +5,7 @@
 
 <br/><br/>
 
+
 <!-- Animated Typing Text -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=00FF9D&lines=Multi-Agent+AI+Systems;Large+Language+Models+(LLMs)+%26+RAG;Computer+Vision+%26+Deep+Learning;FastAPI+•+React+•+Docker+Full-Stack;Turning+Complex+Data+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
