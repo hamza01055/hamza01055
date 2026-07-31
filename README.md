@@ -157,24 +157,6 @@
   <img src="https://raw.githubusercontent.com/hamza01055/hamza01055/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
----
-##  📊 Pacman contribution animation :
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hamza01055/hamza01055/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution animation" />
-</div>
-
-> A dedicated developer focused on clean code and meaningful collaborations.
-
-###
-</div>
-
-----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,100:0A84FF&height=170&section=header&text=Let's%20Connect&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Open%20to%20AI%20projects%20%26%20collaborations&descSize=16&descAlignY=62&animation=twinkling" width="100%" alt="Banner"/>
-</p>
-
 ## 📫 Let's Connect!
 
 <div align="center">
