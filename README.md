@@ -4,6 +4,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Hamza Shahzad  </h1>
 
 
+
  
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI%20Engineer;Python%20Developer;Machine%20Learning%20Engineer;Agentic%20AI%20and%20RAG+Developer" alt="Roles" />
