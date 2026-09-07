@@ -1,40 +1,9 @@
 <!-- Header Section -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Hamza Shahzad  </h1>
-
-
-
+![Uploading fotis-fotopoulos-DuHKoV44prg-unsplash.jpg…]() 
  
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI%20Engineer;Python%20Developer;Machine%20Learning%20Engineer;Agentic%20AI%20and%20RAG+Developer" alt="Roles" />
-</p>
-  
-  
-<h3  align="center"> AI ENGINEER , PYTHON DEVELOPER , MACHINE LEARNING ENGINEER </h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A84FF,100:0A0A0A&height=220&section=header&text=Hamza%20Shahzad&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
-</p>
-
----
-
-
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=hamza01055&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS">
-</a>
-<a href="https://github.com/hamza01055?tab=followers"><img src="https://img.shields.io/github/followers/hamza01055?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
-</div>
-
----
-
-              
-
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
-
 > *"If you want to be the best, you have to work more than the rest."*
 
 - **Currently Working On:** Agentic AI systems, RAG applications, and production-ready AI workflows </br> 
