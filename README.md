@@ -1,8 +1,11 @@
 <!-- Header Section -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
-![Uploading fotis-fotopoulos-DuHKoV44prg-unsplash.jpg…]() 
- 
+<img width="6151" height="4243" alt="dan-lefebvre-RfUy0XMCkhQ-unsplash" src="https://github.com/user-attachments/assets/fb4ac224-8c04-421b-843f-af6c7719a179" />
+
+
+
+
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 > *"If you want to be the best, you have to work more than the rest."*
 
