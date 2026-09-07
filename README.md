@@ -1,5 +1,7 @@
-<!-- Header Section -->
 <div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
+ <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm  Hamza Shahzad  </h1>
+ <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Specialist;Gen%20AI%20Engineer;Automation%20Focused+Developer" /> </p> <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <img width="6151" height="4243" alt="dan-lefebvre-RfUy0XMCkhQ-unsplash" src="https://github.com/user-attachments/assets/fb4ac224-8c04-421b-843f-af6c7719a179" />
 
@@ -23,48 +25,52 @@
 
 ### 💻 Programming Languages:
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="SQL" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 
-<img src="https://skillicons.dev/icons?i=c,dart&theme=dark" width="90" />
+<img src="https://skillicons.dev/icons?i=c,dart" width="90" />
 
-### 🌐 Frontend & Mobile Development:
+### 🌐 Frontend Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-<img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter&theme=dark" width="300" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" />
 
 ### ⚙️ Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" width="230" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="400" />
 
 ### 🤖 AI & Machine Learning:
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda&theme=dark" width="224" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langgraph&logoColor=00D4FF" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="58"  alt="Jupyter" />
 <img src="https://cdn.simpleicons.org/keras/D00000" width="40" alt="Keras" />
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00D4FF" alt="LangChain" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
 
 ### 🗄️ Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" width="270" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="400" />
 
 ### 🔧 Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel&theme=dark" width="250" />
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00D4FF" alt="Render" />
-<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" alt="Figma Postman Linux" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
 
 </div>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:00D4FF&height=150&section=header&text=Building%20AI%20that%20ships&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
