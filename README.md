@@ -1,7 +1,8 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm  Hamza Shahzad  </h1>
- <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Specialist;Gen%20AI%20Engineer;Automation%20Focused+Developer" /> </p> <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
+ <p> <img
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Specialist;Gen%20AI%20Engineer;Automation%20Focused+Developer" /> </p> <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
 <img width="6151" height="4243" alt="dan-lefebvre-RfUy0XMCkhQ-unsplash" src="https://github.com/user-attachments/assets/fb4ac224-8c04-421b-843f-af6c7719a179" />
 
