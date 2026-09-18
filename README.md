@@ -1,11 +1,6 @@
-<div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm  Hamza Shahzad  </h1>
- <p> <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Specialist;Gen%20AI%20Engineer;Automation%20Focused+Developer" /> </p> <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Line"/>
-<img width="6151" height="4243" alt="dan-lefebvre-RfUy0XMCkhQ-unsplash" src="https://github.com/user-attachments/assets/fb4ac224-8c04-421b-843f-af6c7719a179" />
 
+
+<img width="2744" height="1536" alt="Gemini_Generated_Image_c8ouidc8ouidc8ou" src="https://github.com/user-attachments/assets/497139b4-5233-4b44-bb5f-f935bba8bd05" />
 
 
 
@@ -71,18 +66,6 @@
 
 </div>
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:00D4FF&height=150&section=header&text=Building%20AI%20that%20ships&fontSize=34&fontColor=FFFFFF&fontAlignY=52&rotate=13&animation=fadeIn" width="100%" alt="Banner"/>
-</p>
-
-
-
-
-
-
----
 ### 📊 GitHub Stats:
 <table>
   <tr>
@@ -98,16 +81,7 @@
     </td>
   </tr>
 </table>
- 
----
 
-## 📈 Activity Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza01055&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="Hamza's github activity graph" />
-</a>
-
----
 
 ## 🎡 Current Focus
 
@@ -116,19 +90,12 @@
 - **Focus:** Production AI systems, vector databases (FAISS, ChromaDB), and computer vision
 - **Collaboration:** Open to impactful AI projects and real-world problem solving
 
-
-
-
-
 ---
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
   <img src="https://count.getloli.com/@:hamza01055?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
-
-
-
 ---
 ## 🧊 3D Contribution Graph :
 
@@ -155,7 +122,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hamza Shahzad" />
  </a>
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" />
-</div>
